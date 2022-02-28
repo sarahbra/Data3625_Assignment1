@@ -1,4 +1,4 @@
 Data3625
 Assignment 1
 
-Identifying unique features from Ruter dataset
+A preprocessing AI task of identifying unique features from a Ruter dataset
